@@ -9,7 +9,7 @@ Kelsie hired a web developer to start the website. Sadly, the developer got tire
 
 Our job is to complete the website for Kelsie's Dollar Pizza so it looks like the mock-up above.
 
-## Getting Started
+## Getting Started   - use codesandbox.io 
 
 1. Clone this repository using `git clone`
 2. `cd` into the `dollar-pizza-react-final` folder
